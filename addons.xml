@@ -42,7 +42,7 @@
     <website>https://github.com/micahg/plugin.video.tsngo</website>
     <source>https://github.com/micahg/plugin.video.tsngo</source>
   </extension>
-</addon><addon id="plugin.video.hdhrlive" name="HDHomeRun Live" provider-name="Micah Galizia" version="1.0.0">
+</addon><addon id="plugin.video.onesoccer" name="One Soccer" provider-name="Micah Galizia" version="1.0.1">
   <requires>
     <import addon="xbmc.python" version="2.20.0" />
     <import addon="script.module.requests" version="2.12.4" />
@@ -51,17 +51,21 @@
 	<provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>OLD HDHomeRun Kodi Plugin</summary>
+    <summary>One Soccer Kodi Plugin</summary>
     <news>
-- Nobody is reading this.
+- Fix unicode title and description.
     </news>
-    <description>Use your really old HDHomeRun.</description>
+    <description>Canadian Premier League Soccer Live Streaming</description>
     <platform>all</platform>
     <language>en</language>
-    <disclaimer>For bugs, requests or general questions visit the thread on the Kodi forum.</disclaimer>
+    <disclaimer>For bugs, requests or general questions visit the One Soccer thread on the Kodi forum.</disclaimer>
     <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
-    <forum>http://forum.kodi.tv/showthread.php?tid=235268</forum>
-    <website>https://github.com/micahg/plugin.video.hdhrlive</website>
-    <source>https://github.com/micahg/plugin.video.hdhrlive</source>
+    <forum>https://forum.kodi.tv/showthread.php?tid=343500</forum>
+    <website>https://github.com/micahg/plugin.video.onesoccer</website>
+    <source>https://github.com/micahg/plugin.video.onesoccer</source>
+    <assets>
+      <icon>resources/icon.png</icon>
+      <fanart>resources/fanart.jpg</fanart>
+    </assets>
   </extension>
 </addon></addons>

@@ -13,5 +13,5 @@ Zip should be available directly [here](https://raw.githubusercontent.com/micahg
 Something like:
 
 ```
-./create_repository.py --compressed https://github.com/micahg/plugin.video.snnow.git https://github.com/micahg/plugin.video.tsngo.git https://github.com/micahg/plugin.video.onesoccer.git#1_0_8 https://github.com/micahg/plugin.video.cbc
+./create_repository.py --compressed https://github.com/micahg/plugin.video.snnow.git https://github.com/micahg/plugin.video.tsngo.git https://github.com/micahg/plugin.video.onesoccer.git#1_0_8 https://github.com/micahg/plugin.video.cbc https://github.com/micahg/plugin.video.concacafgo
 ```

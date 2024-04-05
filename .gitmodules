@@ -1,0 +1,6 @@
+[submodule "repo/plugin.video.cbc"]
+	path = repo/plugin.video.cbc
+	url = https://github.com/micahg/plugin.video.cbc
+[submodule "repo/plugin.video.concacafgo"]
+	path = repo/plugin.video.concacafgo
+	url = https://github.com/micahg/plugin.video.concacafgo

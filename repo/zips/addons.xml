@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<addons><addon id="plugin.video.cbc" name="Canadian Broadcasting Corp (CBC)" version="4.0.17+matrix.1" provider-name="micahg,t1m,smf007,oshanrube">
+<addons><addon id="plugin.video.cbc" name="Canadian Broadcasting Corp (CBC)" version="4.0.20+matrix.1" provider-name="micahg,t1m,smf007,oshanrube">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
     <import addon="script.module.requests" version="2.22.0" />
@@ -25,7 +25,7 @@
     <forum>https://forum.kodi.tv/showthread.php?tid=328421</forum>
     <website>https://watch.cbc.ca/</website>
     <source>https://github.com/micahg/plugin.video.cbc</source>
-    <news>- Add schedule for CBC Comedy Channel</news>
+    <news>- Updates for new CBC Gem API</news>
   </extension>
 </addon><addon id="plugin.video.concacafgo" name="CONCACAF Go" version="0.2.0" provider-name="micahg">
   <requires>
